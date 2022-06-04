@@ -1,5 +1,5 @@
 # BDA594-Project-Covid-19-Analysis
-# Project Website: https://sites.google.com/sdsu.edu/covid19/main
+### Project Website: https://sites.google.com/sdsu.edu/covid19/main
 
 The vaccination dataset is a time series showing the number of vaccines administered, by U.S. County, since January 2021. It provides detailed descriptions of vaccination numbers by age group and frequencies for those partially and fully vaccinated.
 
