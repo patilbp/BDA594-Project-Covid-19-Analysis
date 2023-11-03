@@ -1,7 +1,9 @@
 # BDA594-Project-Covid-19-Analysis
 ### Project Website: https://sites.google.com/sdsu.edu/covid19/main
 ### Project Video: https://youtu.be/HYXaKkpt72M
+### Project Dashboard Visualization: <a href="https://public.tableau.com/app/profile/bhagyashri.patil/viz/Covid-19Analysis_16391719293470/Covid-19Analysis"> Tableau Dashboard Link</a>
 
+## Project Data Sources:
 The vaccination dataset is a time series showing the number of vaccines administered, by U.S. County, since January 2021. It provides detailed descriptions of vaccination numbers by age group and frequencies for those partially and fully vaccinated.
 
 The COVID-19 case count and death table shows the number of cases and deaths in all U.S. counties beginning on January 21, 2020; and updating to the current date. The data were published to GitHub by the New York Times.
@@ -12,7 +14,7 @@ These three tables are linked together by a primary key identifying a county’s
 
 The final table contains text scraped from Twitter, hosted on Kaggle, that analyzes people’s views about the vaccines from a global perspective. Capturing the human response to a suddenly changed world, this table provides a unique qualitative perspective in understanding the spread of disinformation, relief and the “return to normalcy”. It contains approximately 300,000 tweets collected over time from August 2020.
 
-Responsibilities performed in this project were:
+## Responsibilities performed in this project were:
 
 1. Understand and clean the data tables, understand relationships connecting them to theme of project
 2. Analyze demographic characteristics of U.S. counties
@@ -20,3 +22,7 @@ Responsibilities performed in this project were:
 4. Measure Covid vaccine counts by U.S. counties: which counties boast high vaccine-counts relative to population? Low-vaccine counts?
 5. Assess whether trends exist between county demographics and confirmed Covid cases/vaccine count
 6. Conduct basic text analysis on tweets concerning Covid-19 topics beginning in August 2020
+
+## Project Dashboard Visualization: <a href="https://public.tableau.com/app/profile/bhagyashri.patil/viz/Covid-19Analysis_16391719293470/Covid-19Analysis"> Tableau Dashboard Link</a>
+<img width="960" alt="Tableau_Dashboard_9th Dec 2021" src="https://github.com/patilbp/BDA594-Project-Covid-19-Analysis/assets/36761520/f77587b0-1171-4b8c-9f98-5c3012731ef1">
+<br>
